@@ -10,13 +10,13 @@ Multimodal emotion recognition (MER) faces a critical challenge under missing mo
 
 **Usage**
 Prerequisites:
-    python 3.8
-    numpy == 1.24.4
-    pandas == 2.0.3
-    torch == 1.12.0+cu116
-    torchvision == 0.13.0
+    1. python 3.8
+        2. numpy == 1.24.4
+        3. pandas == 2.0.3
+        4. torch == 1.12.0+cu116
+        5. torchvision == 0.13.0
 
 commands:
-    bash run_mosi.sh
-    bash run_iemocap.sh
-    bash run_mosei.sh
+    1. bash run_mosi.sh
+    2. bash run_iemocap.sh
+    3. bash run_mosei.sh
